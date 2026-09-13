@@ -1,4 +1,4 @@
-[writeup_sign.md.txt](https://github.com/user-attachments/files/32161852/writeup_sign.md.txt)
+[writeup_sign.md.txt]
 # Bugku CTF 签到题 Writeup
 
 ## 题目信息

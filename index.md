@@ -12,7 +12,7 @@ title: zhangyuhan
 * 📄 [Task 01 详解](./task01.md)
 * 📄 [Writeup - HJ 题解](./writeup_hj.md)
 * 📄 [Writeup - JSQ 题解](./writeup_jsq.md)
-* 📄 [Writeup - Sign 签到题](./writeup_sign.md)
+* 📄 [Writeup - Sign 签到题](./writeup_sign-1.md)
 * 📄 [2016-09-13 作业记录](./zuoye2016-09-13.md)
 
 ---

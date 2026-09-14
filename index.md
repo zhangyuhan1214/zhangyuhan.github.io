@@ -14,6 +14,7 @@ title: zhangyuhan
 * 📄 [Writeup - JSQ 题解](./writeup_jsq.md)
 * 📄 [Writeup - Sign 签到题](./writeup_sign-1.md)
 * 📄 [2016-09-13 作业记录](./zuoye2016-09-13.md)
-* 📄 [Writeup - 找不到 题解](./writeup_找不到.md)
+* 📄 [Writeup - 停下来 题解](./writeup_停下来.md)
+* 📄 [Writeup - alert 题解](./writeup_alert.md)
 
 ---

@@ -18,5 +18,6 @@ title: zhangyuhan
 * 📄 [Writeup - alert](./writeup_alert.md)
 * 📄 [Writeup - 头等舱](./writeup_头等舱.md)
 * 📄 [writeup_GET](./writeup_GET.md)
+* 📄 [writeup_POST](./writeup_POST.md)
 
 ---

@@ -10,11 +10,11 @@ title: zhangyuhan
 ## 📝 文章列表
 
 * 📄 [Task 01 详解](./task01.md)
-* 📄 [Writeup - HJ 题解](./writeup_hj.md)
-* 📄 [Writeup - JSQ 题解](./writeup_jsq.md)
-* 📄 [Writeup - Sign 签到题](./writeup_sign-1.md)
+* 📄 [Writeup - HJ](./writeup_hj.md)
+* 📄 [Writeup - JSQ](./writeup_jsq.md)
+* 📄 [Writeup - Sign](./writeup_sign-1.md)
 * 📄 [2016-09-13 作业记录](./zuoye2016-09-13.md)
-* 📄 [Writeup - 停下来 题解](./writeup_停下来.md)
-* 📄 [Writeup - alert 题解](./writeup_alert.md)
+* 📄 [Writeup - 停下来](./writeup_停下来.md)
+* 📄 [Writeup - alert](./writeup_alert.md)
 
 ---

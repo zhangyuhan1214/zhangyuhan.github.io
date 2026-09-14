@@ -19,5 +19,6 @@ title: zhangyuhan
 * 📄 [Writeup - 头等舱](./writeup_头等舱.md)
 * 📄 [writeup_GET](./writeup_GET.md)
 * 📄 [writeup_POST](./writeup_POST.md)
+* 📄 [writeup_SOURCE](./Bugku CTF source（ID168）超详细小白Writeup.md)
 
 ---
